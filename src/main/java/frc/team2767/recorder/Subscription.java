@@ -23,8 +23,6 @@ public class Subscription {
   public Subscription() {
     subscription = new ArrayList<>();
     subscription.add(new Item(SENSORS, "POSITION"));
-    subscription.add(new Item(SENSORS, "QUAD_A_PIN"));
-    subscription.add(new Item(SENSORS, "QUAD_B_PIN"));
 
     subscription.add(new Item(DRIVE_TALON_0, "SELECTED_SENSOR_POSITION"));
     subscription.add(new Item(DRIVE_TALON_1, "SELECTED_SENSOR_POSITION"));
