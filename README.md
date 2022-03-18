@@ -1,5 +1,7 @@
 # Recorder
 
+Obsolete, use [strykeforce/thirdcoast-recorder](https://github.com/strykeforce/thirdcoast-recorder) instead.
+
 Utility to record TCT data stream to CSV file.
 
 ## Windows Installation
